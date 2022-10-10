@@ -36,16 +36,19 @@ const addNote = function(newNote) {
 
 
 router.post("/notes", async function(req, res) {
-    console.log("@@@@@",req.body)
+    console.log(req.body)
     const newNotedata = await addNote(req.body)
     res.json(newNotedata);
 });
 
-
-//Disply one note when clicked on update
-//router.put
-
+ 
 
 //Deletes a note from db.json file
 //router.delete
+
+
+
+
+
+
 module.exports= router

@@ -1,7 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text",
-        "id": "123"
-    }
-]
+[{"title":"Test Title","text":"Test text","id":"123"},{"title":"laundry","text":"jeans","id":"0.7413555552533873"},{"title":"Eat Dinner","text":"Chinese","id":"0.768987177796292"},{"title":"Clean bathroom","text":"tub","id":"0.13389162501637286"},{"title":"test","text":"test","id":"0.5949658665575561"},{"title":"night routine","text":"brush teeth","id":"0.6669681915637269"}]
