@@ -44,7 +44,15 @@ router.post("/notes", async function(req, res) {
  
 
 //Deletes a note from db.json file
-//router.delete
+const deleteNote = 
+
+
+
+
+router.delete("/notes", function(req,res) {
+res.json()
+});
+
 
 
 

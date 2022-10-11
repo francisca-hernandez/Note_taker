@@ -24,7 +24,8 @@
 * Font Awesome
 
 ## Screenshot and Demo
-
+https://watch.screencastify.com/v/oytWIgt4YBIjKtgPRPWd
+![Front page of note taker app with get started button middle of screen](/public/assets/Screenshot%202022-10-10%20233547.jpg)
 
 ## Deployed Link
 
